@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Trip Log</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_label_TripDate">Trip Time</string>
+    <string name="app_label_TripStartReading">Origin Reading</string>
+    <string name="app_label_TripEndReading">Destination Reading</string>
+    <string name="app_button_StartTrip">Start Trip</string>
+    <string name="app_button_EndTrip">End Trip</string>
+    <string name="_sdcard_">/sdcard/</string>
+    <string name="app_message_startTrip">Trip started</string>
+    <string name="app_message_endTrip">Trip closed</string>
+
+</resources>
